@@ -1,0 +1,7 @@
+make a database named login and create a table named users in it
+
+users field -->
+id
+username
+password
+created_at
