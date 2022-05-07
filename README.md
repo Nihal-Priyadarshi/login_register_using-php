@@ -1,6 +1,6 @@
 # login_register_using-php
 
-#### This is a login and register file using php, it allows you to register first and then login on localhost only. if you are not using localhost then change server, username and password in config.php file.
+#### This is a login and register file created using php, it allows you to register first and then login on localhost only. if you are not using localhost then change server, username and password in config.php file.
 
 #### Create a databese named "login" and then create a table named "users" in it.
 
